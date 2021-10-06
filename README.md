@@ -1,0 +1,4 @@
+# Windy-the-weather-app
+Project Description - This mini project was all about building a weather app. I named this app ‘Windy’. Basically, in this app you will be able to view the temperature wind speed and humidity of a particular place.
+
+Approach – I created the necessary inputs which needed to be display and planned the look of the app. Then my second objective was to design a good interface. Then I started making the input actions and fetched the API. There should be a hover effect when we hover over the button so made likewise and wanted the background to change to the images of the corresponding searched place. Used JavaScript mainly to work with the display and the requests made by a user. With the help of API could view the weather of different places. Kept Kolkata my hometown as default display.
